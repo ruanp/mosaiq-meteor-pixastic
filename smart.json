@@ -1,0 +1,9 @@
+{
+  "name": "mosaiq-pixastic",
+  "description": "Pixastic mosaic utility for mosaiq.me",
+  "homepage": "https://github.com/ruanp/mosaiq-meteor-pixastic",
+  "author": "mosaiq.me Team",
+  "version": "0.0.1",
+  "git": "https://github.com/ruanp/mosaiq-meteor-pixastic.git",
+  "packages": {}
+}
